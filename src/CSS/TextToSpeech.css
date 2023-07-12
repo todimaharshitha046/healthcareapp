@@ -1,0 +1,10 @@
+.textToSpeech
+{
+    all: unset;
+    width: 3vw;
+    height: 3vw;
+    border-radius: 100%;
+    color: white;
+    background-color: rgb(5,151,142);
+    text-align: center;
+}
